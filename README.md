@@ -100,7 +100,7 @@ print(eu.frase())
 
 </div>
 
-> ⚠️ A snake só aparece após configurar o workflow — veja as instruções no final.
+
 
 ---
 
